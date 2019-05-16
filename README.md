@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
 =======================================================================
 
-## Ember.js
+# Ember.js
 
 ### Research Conducted By: Joseph Wolfe, Aaron Ferris, Vanessa Wei, Chris
 
 ### Overall Score and Comments
-#### Score (Out of 10): 7
+#### Score (Out of 10): 4.5
 #### General Comments
 Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
 
@@ -17,6 +17,7 @@ Describe the stack (front-end only? full stack?), database, efficiency, etc. Des
 * Built in linting
 
 #### Cons
+* Confusing
 * Not beginner friendly
 * Very 'frameworkey'
 * When a file is added it needs to be done through the framework
@@ -25,7 +26,8 @@ Describe the stack (front-end only? full stack?), database, efficiency, etc. Des
 
 ### Ratings and Reviews
 #### Documentation
-Thoughts go here
+* Overall, robust and clear documention. Official ember site is well laid out and covers most indivudual pieces.
+* Outide of the official docs, not many resources to support development. 
 
 #### Systems Requirements
 Dependencies:
@@ -44,9 +46,9 @@ Deployment:
 * Certain aspects are more difficult to implement than one would expect. The nature of the modularization can make it difficult to understand which component does what and how to implement dynamic features. Mistakes are difficult to undo and fix, could mean restarting feature from a blank file.
 
 #### Community Support and Adoption levels
+* General conception as a 'dead/dying framework', but there are still many diehard ember developers.
 * Many tutorials are outdated
 * Very few new resources
-* 3% of the market share
 * Heroku, Netflix, LinkedIn, Twitch, Travis.ci use ember. [Source](https://stackshare.io/emberjs/in-stacks)
 * 14,000 US websites currently using ember (to compare, react has 200,000). [Source](https://trends.builtwith.com/javascript/Ember)
 
@@ -58,7 +60,6 @@ Ember community support is dwindling, and it seems that people are embracing Rea
 * [examples/tutorials](https://guides.emberjs.com/release/tutorial/ember-cli/)
 
 ### Code Demos
-* [live/running application]() 
 * [code repository](https://github.com/401-advanced-javascript-merritt/ember-practice)
 
 ### Operating Instructions
@@ -69,9 +70,4 @@ If someone were to download your repo (above), what steps do they need to take t
 * `ember serve`: Start the server and access the site.
 
 ### UML:
-![uml](https://files.slack.com/files-pri/T039KG69K-FJS0DMQPJ/img_0284.jpg)
-
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+![uml](https://i.imgur.com/kTQpRJf.jpg)
