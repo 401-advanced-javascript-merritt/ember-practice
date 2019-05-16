@@ -8,7 +8,16 @@
 ### Overall Score and Comments
 #### Score (Out of 10): 4.5
 #### General Comments
-Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
+* Ember has been through three major versions and many minor increments. 
+* It has a massive codebase and extensive documentation. 
+* The framework can generate full stack boilerplate in moments. Although it offers an incredible amount of support for "ambitious developers", it can be intimidating on first approach. 
+* So long as you do everything their way, it's rewarding to use. Wandering off the beaten path poses challenges.
+* It does a great job of connecting things, but the connections are terribly concrete.
+* If you’re going to change structure with things you’ll have to completely start over and dredge through for residual connections created when you created the previous components.
+* The Community’s input on this is old, and finding current examples outside the amber website can be difficult.
+* Styling the page uses bootstrap
+* Makes assumptions for developers which is convenient 
+* Since few people are activley using it, it makes it harder to find resources to help understand the framework.
 
 #### Pros
 * Large projects
