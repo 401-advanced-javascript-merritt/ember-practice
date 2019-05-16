@@ -3,7 +3,7 @@
 
 # Ember.js
 
-### Research Conducted By: Joseph Wolfe, Aaron Ferris, Vanessa Wei, Chris
+### Research Conducted By: Joseph Wolfe, Aaron Ferris, Vanessa Wei, Chris Merritt
 
 ### Overall Score and Comments
 #### Score (Out of 10): 4.5
