@@ -1,11 +1,11 @@
 <div style='background-color:slategrey; padding:5px'>
-  {{ input type='text' placeholder='type here' enter=(action 'addItem') }} 
+  {{ input type='text' placeholder='type here' enter=(action 'addItem' model) }}
 </div>
 
 
 <ul>
   {{#each this.model as |task|}}
-  <Item @title={{task.title}} /> 
+  <Item @title={{task.title}} />
   {{/each}}
 </ul>
 {{outlet}}
