@@ -18,24 +18,23 @@ Describe the stack (front-end only? full stack?), database, efficiency, etc. Des
 * Not beginner friendly
 * Very 'frameworkey'
 * When a file is added it needs to be done through the framework
+* Lots of outdated resources
 
 ### Ratings and Reviews
 #### Documentation
 Thoughts go here
 
 #### Systems Requirements
-Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework?  Can it play at AWS/Heroku?  Does it require a certain database?
-
 Dependencies:
 * npm
 * node.js
 * ember-cli
 
 Deployment:
-* AWS s3
+* AWS s3 supported
 * Heroku - [link](https://www.heroku.com/emberjs)
-* Need to build before deployment
-* 
+* Need to run `ember build --env production` before deployment
+* No requirements for DB
 
 #### Ramp-Up Projections
 How long would/should it take a team of mid-junior developers to become productive?
